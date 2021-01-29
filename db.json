@@ -2,10 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "All Projects"
+      "content": "about project"
+    },
+    {
+      "id": 2,
+      "title": "My New Project"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "lidiayachnyk"
   }
 }
